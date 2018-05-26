@@ -32,7 +32,7 @@ class crearDiccionario:
             if validar == True:
                 archivo.write(numeroLetras + '\n')
                 archivo.write(numeroLetras + '001\n')
-            inicio +=
+            inicio += 1
         archivo.close()
         print('Diccionario creado correctamente suerte en tú ataque')
 
