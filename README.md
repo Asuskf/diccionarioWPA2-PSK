@@ -9,7 +9,7 @@ Ejemplo: cd /home/USUARIO/Descargas/diccionarioWPA
 ```
 Una vez estés en la carpeta debes otorgar permisos de ejecución al script
 ```
-sudo chmod 0755  	DiccionarioNetlife.py
+sudo chmod 0755 DiccionarioNetlife.py
 ```
 Ahora ejecútalo
 ```
@@ -28,3 +28,6 @@ Este script crea el diccionario según la provincia del Ecuador en la que te enc
 <img src="https://scontent.fuio3-1.fna.fbcdn.net/v/t1.0-9/33592049_1724297777652122_8295110143968804864_n.jpg?_nc_cat=0&oh=ef5d739adc2d42764e86475a1b5b1a21&oe=5B8F9D74" border="1" width="100%" height="100%"></img>
 <br>
 <img src="https://scontent.fuio3-1.fna.fbcdn.net/v/t1.0-9/33788812_1724297774318789_3507982781743366144_n.jpg?_nc_cat=0&oh=e8a29c90eb4c50fa22ad3662e3e24a24&oe=5B856C37" border="1" width="100%" height="100%"></img>
+*Siéntete libre de mejorar el código o mejorar sus funcionalidades.* 
+*No olvides de compartir tú conocimiento.*  
+
