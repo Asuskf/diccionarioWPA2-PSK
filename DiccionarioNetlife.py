@@ -12,15 +12,15 @@ class crearDiccionario:
             while inicio <= final:
                 total = 0
                 numeroLetras = str(inicio)
-                tipo = int(numeroLetras[2])
+                tipo = int(numeroLetras[1])
                 if tipo >= 0 and tipo <= 6:
                     base = 10
                     digitoVerificador = int(numeroLetras[-1])
-                    proceso = (2, 1, 2, 1, 2, 1, 2, 1, 2)
+                    proceso = (1, 2, 1, 2, 1, 2, 1, 2)
                 elif (tipo == 6):
                     base = 11
                     digitoVerificador = int(numeroLetras[-1])
-                    proceso = (4, 3, 2, 7, 6, 5, 4, 3, 3)
+                    proceso = (3, 2, 7, 6, 5, 4, 3, 3)
                 for i in range(0, len(proceso)):
                     calcular = int(numeroLetras[i]) * proceso[i]
                     if (tipo >= 0 and tipo <= 6) or tipo == 9:
