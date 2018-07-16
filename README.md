@@ -20,7 +20,7 @@ Sigue las instrucciones
 Este script crea el diccionario según la provincia del Ecuador en la que te encuentres 
 <br>
 <b>Este diccionario se probó efectuando un ataque de fuerza bruta a una red wifi que se encontraba en las cercanías, se usó la distribución Parrot.</b>
-<img src="blob:https://web.telegram.org/77505562-4ba4-40ae-a748-7295780507e3" border="1" width="100%" height="100%"></img>
+<img src="https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/37235559_1792161214199111_3170359418399227904_o.jpg?_nc_cat=0&oh=0d40e2d148b7ce9d64f754e8be70b4e1&oe=5BCEC061" border="1" width="100%" height="100%"></img>
 <br>
 *Siéntete libre de mejorar el código o mejorar sus funcionalidades.* 
 *No olvides de compartir tú conocimiento.*  
