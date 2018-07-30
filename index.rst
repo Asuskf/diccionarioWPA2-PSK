@@ -1,4 +1,8 @@
+diccionarioWPA2-PSK 
+====================
+
 Introducción
+------------
 diccionarioWPA2-PSK es un script elaborado en python que te crea un diccionario para usarlo en el ataque handshake a redes wifi que tengan como proveedor Netlife o CNT. 
 Manual de instalaciòn y uso 
 Instalación 
