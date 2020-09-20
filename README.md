@@ -1,4 +1,5 @@
 # diccionarioWPA
+![Repo soporte](https://user-images.githubusercontent.com/36687747/93718462-0e9ffa00-fb42-11ea-8282-9622247e896d.png)
 Este script se creó con fines educativos, lo que se realice con él, no es responsabilidad del o los creadores. 
 
 Este script funciona en Python 3, aprovecha el bug de seguridad que tienen las empresas proveedoras de Internet al colocar en el modem la cédula de identidad del propietario o RUC como contraseña.
